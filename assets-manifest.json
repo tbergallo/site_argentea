@@ -1,0 +1,93 @@
+{
+  "status": "AI-generated conceptual photographs based on approved reference scenes. Not documentary records of Argéntea activities.",
+  "images": {
+    "hero-encuentro": {
+      "original": "assets/originals/hero-encuentro.png",
+      "src": "assets/images/hero-encuentro-1536.webp",
+      "srcset": "assets/images/hero-encuentro-480.webp 480w, assets/images/hero-encuentro-640.webp 640w, assets/images/hero-encuentro-960.webp 960w, assets/images/hero-encuentro-1440.webp 1440w, assets/images/hero-encuentro-1536.webp 1536w",
+      "width": 1536,
+      "height": 1024,
+      "kind": "AI-generated conceptual photo"
+    },
+    "argentea-ingreso": {
+      "original": "assets/originals/argentea-ingreso.png",
+      "src": "assets/images/argentea-ingreso-1086.webp",
+      "srcset": "assets/images/argentea-ingreso-480.webp 480w, assets/images/argentea-ingreso-640.webp 640w, assets/images/argentea-ingreso-960.webp 960w, assets/images/argentea-ingreso-1086.webp 1086w",
+      "width": 1086,
+      "height": 1448,
+      "kind": "AI-generated conceptual photo"
+    },
+    "liderazgo-patio": {
+      "original": "assets/originals/liderazgo-patio.png",
+      "src": "assets/images/liderazgo-patio-1536.webp",
+      "srcset": "assets/images/liderazgo-patio-480.webp 480w, assets/images/liderazgo-patio-640.webp 640w, assets/images/liderazgo-patio-960.webp 960w, assets/images/liderazgo-patio-1440.webp 1440w, assets/images/liderazgo-patio-1536.webp 1536w",
+      "width": 1536,
+      "height": 1024,
+      "kind": "AI-generated conceptual photo"
+    },
+    "eco-grupo": {
+      "original": "assets/originals/eco-grupo.png",
+      "src": "assets/images/eco-grupo-1448.webp",
+      "srcset": "assets/images/eco-grupo-480.webp 480w, assets/images/eco-grupo-640.webp 640w, assets/images/eco-grupo-960.webp 960w, assets/images/eco-grupo-1440.webp 1440w, assets/images/eco-grupo-1448.webp 1448w",
+      "width": 1448,
+      "height": 1086,
+      "kind": "AI-generated conceptual photo"
+    },
+    "eco-dialogo": {
+      "original": "assets/originals/eco-dialogo.png",
+      "src": "assets/images/eco-dialogo-1448.webp",
+      "srcset": "assets/images/eco-dialogo-480.webp 480w, assets/images/eco-dialogo-640.webp 640w, assets/images/eco-dialogo-960.webp 960w, assets/images/eco-dialogo-1440.webp 1440w, assets/images/eco-dialogo-1448.webp 1448w",
+      "width": 1448,
+      "height": 1086,
+      "kind": "AI-generated conceptual photo"
+    },
+    "pci-equipo": {
+      "original": "assets/originals/pci-equipo.png",
+      "src": "assets/images/pci-equipo-1448.webp",
+      "srcset": "assets/images/pci-equipo-480.webp 480w, assets/images/pci-equipo-640.webp 640w, assets/images/pci-equipo-960.webp 960w, assets/images/pci-equipo-1440.webp 1440w, assets/images/pci-equipo-1448.webp 1448w",
+      "width": 1448,
+      "height": 1086,
+      "kind": "AI-generated conceptual photo"
+    },
+    "comunidad-grupo": {
+      "original": "assets/originals/comunidad-grupo.png",
+      "src": "assets/images/comunidad-grupo-1448.webp",
+      "srcset": "assets/images/comunidad-grupo-480.webp 480w, assets/images/comunidad-grupo-640.webp 640w, assets/images/comunidad-grupo-960.webp 960w, assets/images/comunidad-grupo-1440.webp 1440w, assets/images/comunidad-grupo-1448.webp 1448w",
+      "width": 1448,
+      "height": 1086,
+      "kind": "AI-generated conceptual photo"
+    },
+    "comunidad-caminata": {
+      "original": "assets/originals/comunidad-caminata.png",
+      "src": "assets/images/comunidad-caminata-1122.webp",
+      "srcset": "assets/images/comunidad-caminata-480.webp 480w, assets/images/comunidad-caminata-640.webp 640w, assets/images/comunidad-caminata-960.webp 960w, assets/images/comunidad-caminata-1122.webp 1122w",
+      "width": 1122,
+      "height": 1402,
+      "kind": "AI-generated conceptual photo"
+    },
+    "comunidad-detalle": {
+      "original": "assets/originals/comunidad-detalle.png",
+      "src": "assets/images/comunidad-detalle-1448.webp",
+      "srcset": "assets/images/comunidad-detalle-480.webp 480w, assets/images/comunidad-detalle-640.webp 640w, assets/images/comunidad-detalle-960.webp 960w, assets/images/comunidad-detalle-1440.webp 1440w, assets/images/comunidad-detalle-1448.webp 1448w",
+      "width": 1448,
+      "height": 1086,
+      "kind": "AI-generated conceptual photo"
+    },
+    "comunidad-retrato": {
+      "original": "assets/originals/comunidad-retrato.png",
+      "src": "assets/images/comunidad-retrato-1122.webp",
+      "srcset": "assets/images/comunidad-retrato-480.webp 480w, assets/images/comunidad-retrato-640.webp 640w, assets/images/comunidad-retrato-960.webp 960w, assets/images/comunidad-retrato-1122.webp 1122w",
+      "width": 1122,
+      "height": 1402,
+      "kind": "AI-generated conceptual photo"
+    },
+    "comunidad-encuentro": {
+      "original": "assets/originals/comunidad-encuentro.png",
+      "src": "assets/images/comunidad-encuentro-1448.webp",
+      "srcset": "assets/images/comunidad-encuentro-480.webp 480w, assets/images/comunidad-encuentro-640.webp 640w, assets/images/comunidad-encuentro-960.webp 960w, assets/images/comunidad-encuentro-1440.webp 1440w, assets/images/comunidad-encuentro-1448.webp 1448w",
+      "width": 1448,
+      "height": 1086,
+      "kind": "AI-generated conceptual photo"
+    }
+  }
+}

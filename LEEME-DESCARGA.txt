@@ -1,0 +1,20 @@
+ARGÉNTEA — Código completo, 14 de octubre de 2026
+Versión publicada: 23. Commit: 70a4b1dc4ebf5f4a1f49cd10a3d2f2074239e86b
+
+La carpeta dist contiene la web lista para subir a cualquier hosting estático:
+index.html, styles.css, app.js, config.js y todos los recursos.
+No requiere npm ni compilación. Publicar el CONTENIDO de dist.
+
+Para verla localmente: abrir dist/index.html, o ejecutar desde dist:
+python -m http.server 8000
+y visitar http://localhost:8000
+
+assets/originals conserva las imágenes fuente.
+El formulario usa FormSubmit y envía a pablogui026@gmail.com.
+El destinatario debe confirmar el correo de activación del primer envío.
+Para probar el envío, usar una dirección HTTP/HTTPS, no file://.
+No se verificó la recepción del correo.
+
+Este archivo refleja los últimos cambios de Comunidad y del formulario.
+Los documentos README.md y QA.md conservan notas previas del proyecto;
+para el estado del envío, prevalece esta nota.
